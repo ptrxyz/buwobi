@@ -4,10 +4,12 @@ Little buzzword bingo game to entertain people during boring presentations. See 
 
 # Use your own words
 
-If you want to reuse the game, there is no need to fiddle with the sources. You can create your own wordlist by following these four steps:
+If you want to reuse the game, there is no need to fiddle with the sources.
+You can create your own wordlist by following these four steps:
 
 **Step 1:** Create a new public [Gist](https://gist.github.com/) (requires a GitHub Account), one word per line:
 ![image](https://user-images.githubusercontent.com/209056/134182290-82b254cb-bff9-4c24-8aad-c7a2a413ff44.png)
+For the best experience, enter something around 25+ words (less is possible, yet words will be repeated to fill the 4x4 board).
 
 **Step 2:** Go to the raw version of your Gist by clicking the `Raw`-Button
 ![image](https://user-images.githubusercontent.com/209056/134182422-0b1ee51a-7a39-4d36-b057-4cb0a8d96e04.png)

@@ -5,7 +5,7 @@ module.exports = {
         // require('tailwindcss'),
         // require('postcss-preset-env'),
         // require('postcss-simple-vars'),
-        // require('postcss-nested'),
+        require('postcss-nested'),
         require('autoprefixer'),
         // require('cssnano'),
     ],

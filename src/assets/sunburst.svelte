@@ -1,0 +1,130 @@
+<svg
+    width="130%"
+    height="130%"
+    version="1.1"
+    viewBox="0 0 414.27 414.27"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <defs>
+        <filter
+            id="filter90708"
+            x="-.31944"
+            y="-.31944"
+            width="1.6389"
+            height="1.6389"
+            color-interpolation-filters="sRGB"
+        >
+            <feGaussianBlur stdDeviation="13.125147" />
+        </filter>
+        <mask id="mask1161" maskUnits="userSpaceOnUse">
+            <circle
+                transform="matrix(2.5387 0 0 2.5387 -318.73 -318.75)"
+                cx="207.14"
+                cy="207.15"
+                r="49.306"
+                fill="#fafafa"
+                filter="url(#filter90708)"
+                stop-color="#000000"
+                style="paint-order:markers stroke fill"
+            />
+        </mask>
+    </defs>
+    <g id="sunburst" mask="url(#mask1161)">
+        <g fill="#e4c6fa">
+            <path
+                id="path89596"
+                d="m413.07 207.58c-0.012 17.916-2.362 35.753-6.992 53.06l-198.76-53.06z"
+                opacity=".66"
+                stop-color="#000000"
+                style="paint-order:markers stroke fill"
+            />
+            <path
+                id="path89780"
+                d="m384.67 310.5c-8.979 15.56-19.957 29.878-32.653 42.59l-145.16-145.16z"
+                opacity=".66"
+                stop-color="#000000"
+                style="paint-order:markers stroke fill"
+            />
+            <path
+                id="path89884"
+                d="m310.14 385.22c-15.537 8.99-32.181 15.911-49.511 20.585l-53.061-198.75z"
+                opacity=".66"
+                stop-color="#000000"
+                style="paint-order:markers stroke fill"
+            />
+            <path
+                id="path90170"
+                d="m206.82 413.25c-17.95 0.019-35.825-2.31-53.171-6.928l53.426-198.65z"
+                opacity=".66"
+                stop-color="#000000"
+                style="paint-order:markers stroke fill"
+            />
+            <path
+                id="path90172"
+                d="m104.59 385.23c-15.555-8.959-29.87-19.913-42.584-32.585l145.6-145.33z"
+                opacity=".66"
+                stop-color="#000000"
+                style="paint-order:markers stroke fill"
+            />
+            <path
+                id="path90174"
+                d="m29.417 310.5c-8.991-15.537-15.912-32.182-20.585-49.512l198.75-53.06z"
+                opacity=".66"
+                stop-color="#000000"
+                style="paint-order:markers stroke fill"
+            />
+            <path
+                id="path90176"
+                d="m1.5436 206.64c-0.01862-17.95 2.3105-35.824 6.9282-53.17l198.65 53.426z"
+                opacity=".66"
+                stop-color="#000000"
+                style="paint-order:markers stroke fill"
+            />
+            <path
+                id="path90178"
+                d="m29.443 104.25c8.9586-15.554 19.913-29.87 32.585-42.583l145.33 145.6z"
+                opacity=".66"
+                stop-color="#000000"
+                style="paint-order:markers stroke fill"
+            />
+            <path
+                id="path90180"
+                d="m104.64 30.124c15.535-8.991 32.18-15.912 49.511-20.585l53.06 198.75z"
+                opacity=".66"
+                stop-color="#000000"
+                style="paint-order:markers stroke fill"
+            />
+            <path
+                id="path90182"
+                d="m207.52 1.784c17.949-0.01862 35.825 2.3105 53.17 6.9282l-53.426 198.65z"
+                opacity=".66"
+                stop-color="#000000"
+                style="paint-order:markers stroke fill"
+            />
+            <path
+                id="path90184"
+                d="m310.42 30.138c15.555 8.9586 29.871 19.913 42.584 32.585l-145.6 145.33z"
+                opacity=".66"
+                stop-color="#000000"
+                style="paint-order:markers stroke fill"
+            />
+            <path
+                id="path90186"
+                d="m384.67 104.66c8.99 15.536 15.911 32.181 20.585 49.511l-198.75 53.06z"
+                opacity=".66"
+                stop-color="#000000"
+                style="paint-order:markers stroke fill"
+            />
+        </g>
+        <circle
+            id="path90608"
+            cx="207.14"
+            cy="207.15"
+            r="49.306"
+            fill="#fafafa"
+            filter="url(#filter90708)"
+            stop-color="#000000"
+            style="paint-order:markers stroke fill"
+        />
+    </g>
+</svg>
